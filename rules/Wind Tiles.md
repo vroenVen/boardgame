@@ -5,7 +5,7 @@ In Maaaaaahjong, the ordinal directions (NE/NW/SE/SW) exist in the game.
 - N/NW/NW counts as a NORTH triplet. Cardinal direction takes precedence (this means that SW/W/NW counts as a WEST triplet)
 - The above means that you CANNOT call KAN on a wind run. (W/NW/N can't KAN SW/NE, SE/E/NE can't KAN S/N)
 - The above means you CAN call KAN in certain scenarios. (NE/NE/N CAN KAN N/NE, but not E)
-- NE/NE/NE is a honor triplet. If you KAN NE/NE/NE with N or E, it becomes the cardinal you kan it with.
+- NE/NE/NE is a honor triplet. If you KAN NE/NE/NE with N or E, it becomes the cardinal you KAN it with.
 - NE/NE/NE counts as an honor triplet/North Triplet/East Triplet/Wind Triplet for yaku purposes
 
 ## Seat Wind/Round Wind
